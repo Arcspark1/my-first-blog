@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-j!6gd9^rysiz3t#-6+w(rv*h_a$4r1l&#oz8n#0mdb9v#l6i0u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]','arcspark.pythonanywhere.com']
 #ALLOWED_HOSTS = [os.getenv('PROJECT_DOMAIN') + ".glitch.me"]
 
 # Application definition
